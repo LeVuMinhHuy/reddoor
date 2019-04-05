@@ -36,7 +36,7 @@
               <div class="col sqs-col-9">
                 <div class="sqs-block">
                   <div class="sqs-block-content">
-                    <h3 style="white-space: pre-wrap;">LOCATIONS</h3>
+                    <h3 style="white-space: pre-wrap;font-family:'Proxima Nova'">LOCATIONS</h3>
                   </div>
                 </div>
               </div>
@@ -44,7 +44,7 @@
               <div class="col sqs-col-3">
                 <div class="sqs-block">
                   <div class="sqs-block-content">
-                    <h3 style="white-space: pre-wrap;">TRADING HOURS</h3>
+                    <h3 style="white-space: pre-wrap;font-family:'Proxima Nova'">TRADING HOURS</h3>
                   </div>
                 </div>
               </div>
@@ -56,7 +56,7 @@
               <div class="col sqs-col-3">
                 <div class="sqs-block">
                   <div class="sqs-block-content">
-                    <p style="white-space: pre-wrap;"><em>Red Door in D1</em><br><br>Tầng 2, Lầu 2, 151/3 Chung Cư 151 Đồng Khởi, Quận 1, TP. HCM</p>
+                    <p style="white-space: pre-wrap;font-family:'Proxima Nova'"><em>Red Door in D1</em><br><br>Tầng 2, Lầu 2, 151/3 Chung Cư 151 Đồng Khởi, Quận 1, TP. HCM</p>
                   </div>
                 </div>
               </div>
@@ -64,7 +64,7 @@
               <div class="col sqs-col-3">
                 <div class="sqs-block">
                   <div class="sqs-block-content">
-                    <p style="white-space: pre-wrap;"><em>Red Door Lê Văn Sỹ</em><br><br>400/8 Lê Văn Sỹ, P. 14, Quận 3, TP. HCM </p>
+                    <p style="white-space: pre-wrap;font-family:'Proxima Nova'"><em>Red Door Lê Văn Sỹ</em><br><br>400/8 Lê Văn Sỹ, P. 14, Quận 3, TP. HCM </p>
                   </div>
                 </div>
               </div>
@@ -82,7 +82,7 @@
               <div class="col sqs-col-3">
                 <div class="sqs-block">
                   <div class="sqs-block-content">
-                    <p style="white-space: pre-wrap;"><em>Open Daily</em><br>7.30am — 11.30pm</p>
+                    <p style="white-space: pre-wrap;font-family:'Proxima Nova'"><em>Open Daily</em><br>7.30am — 11.30pm</p>
                   </div>
                 </div>
             </div>

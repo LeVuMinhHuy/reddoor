@@ -12,8 +12,8 @@
   <div data-nc-container="bottom-right">
     <nav class="Header-nav Header-nav--primary" data-nc-element="primary-nav" data-content-field="navigation">
         <div class="Header-nav-inner">
-          <a href="./menu.php" class="Header-nav-item"><p style="padding-left: 900px;">Menu</p></a>
-          <a href="./locations.php" class="Header-nav-item">Find us</a>
+          <a href="./menu.php" class="Header-nav-item"><p style="padding-left: 900px;font-family:'Proxima Nova'">Menu</p></a>
+          <a href="./locations.php" class="Header-nav-item"><p style="font-family:'Proxima Nova'">Find us</p></a>
          </div>
     </nav>
   </div>

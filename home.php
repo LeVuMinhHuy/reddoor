@@ -8,8 +8,8 @@
           <header class="Header--bottom Header--overlay">
             <?php include './resource/navbar.php'?>
             <br><br><br><br>
-            <h1 style="text-align: center;"><font color="white">Red door</font></h1>
-            <h3 style="text-align: center"><font color="white">The Cafe</font></h3>
+            <h1 style="text-align: center;font-family:Garamond"><font color="white">Red door</font></h1>
+            <h3 style="text-align: center;font-family:Garamond"><font color="white">The Cafe</font></h3>
           </header>
 
           <?php include './resource/slideHome.php'; ?>
