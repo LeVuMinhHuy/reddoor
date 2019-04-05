@@ -1,5 +1,9 @@
 /*! Squarespace LESS Compiler  (less.js language v1.3.3)  */
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
+img[src="https://cdn.000webhost.com/000webhost/logo/footer-powered-by-000webhost-white2.png"]{
+  display: none;
+}
+
 html {
     font-family: sans-serif;
     -ms-text-size-adjust: 100%;

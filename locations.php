@@ -19,7 +19,13 @@
           <div class="Intro-image"></div>
      </div>
 
-        <img src="./assets/image/menu/menu.png" alt="Reddoor's Menu" style="height: 920px;">
+     <div class="Main-content" style="padding-left: 200px;padding-right: 200px;">
+        <?php include './resource/info.php'; ?>
+
+
+    </div>
+
+
 
         <?php include './resource/footer.php'; ?>
         <?php include './resource/script.php'; ?>
